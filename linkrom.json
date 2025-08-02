@@ -1,103 +1,25 @@
 {
   "devices": [
     {
-      "name": "OnePlus 9 Pro",
-      "model": "LE2125",
+      "name": "OnePlus Ace 5",
+      "model": "PKG110",
       "versions": [
         {
-          "version": "OxygenOS 13.1",
-          "android_version": "13",
-          "build": "LE2125_13.1.0.535",
+          "version": "OxygenOS v9",
+          "android_version": "15",
+          "build": "9.0",
           "links": {
             "googledrive": "https://drive.google.com/file/d/1abc123def456/view?usp=sharing",
             "onedrive": "https://1drv.ms/u/s!ABC123DEF456"
           }
         },
         {
-          "version": "OxygenOS 14.0",
-          "android_version": "14",
-          "build": "LE2125_14.0.0.800",
+          "version": "ColorOS v2",
+          "android_version": "15",
+          "build": "2.0.840",
           "links": {
             "googledrive": "https://drive.google.com/file/d/1def456ghi789/view?usp=sharing",
             "onedrive": "https://1drv.ms/u/s!DEF456GHI789"
-          }
-        }
-      ]
-    },
-    {
-      "name": "OnePlus 9",
-      "model": "LE2115",
-      "versions": [
-        {
-          "version": "OxygenOS 13.1",
-          "android_version": "13",
-          "build": "LE2115_13.1.0.535",
-          "links": {
-            "googledrive": "https://drive.google.com/file/d/1ghi789jkl012/view?usp=sharing",
-            "onedrive": "https://1drv.ms/u/s!GHI789JKL012"
-          }
-        }
-      ]
-    },
-    {
-      "name": "OnePlus 8T",
-      "model": "KB2005",
-      "versions": [
-        {
-          "version": "OxygenOS 13.1",
-          "android_version": "13",
-          "build": "KB2005_13.1.0.538",
-          "links": {
-            "googledrive": "https://drive.google.com/file/d/1jkl012mno345/view?usp=sharing",
-            "onedrive": "https://1drv.ms/u/s!JKL012MNO345"
-          }
-        },
-        {
-          "version": "OxygenOS 12.1",
-          "android_version": "12",
-          "build": "KB2005_12.1.0.305",
-          "links": {
-            "googledrive": "https://drive.google.com/file/d/1mno345pqr678/view?usp=sharing",
-            "onedrive": "https://1drv.ms/u/s!MNO345PQR678"
-          }
-        }
-      ]
-    },
-    {
-      "name": "OnePlus Nord 2T",
-      "model": "CPH2401",
-      "versions": [
-        {
-          "version": "OxygenOS 13.1",
-          "android_version": "13",
-          "build": "CPH2401_13.1.0.220",
-          "links": {
-            "googledrive": "https://drive.google.com/file/d/1pqr678stu901/view?usp=sharing",
-            "onedrive": "https://1drv.ms/u/s!PQR678STU901"
-          }
-        }
-      ]
-    },
-    {
-      "name": "OnePlus 10 Pro",
-      "model": "NE2215",
-      "versions": [
-        {
-          "version": "OxygenOS 14.0",
-          "android_version": "14",
-          "build": "NE2215_14.0.0.800",
-          "links": {
-            "googledrive": "https://drive.google.com/file/d/1stu901vwx234/view?usp=sharing",
-            "onedrive": "https://1drv.ms/u/s!STU901VWX234"
-          }
-        },
-        {
-          "version": "OxygenOS 13.1",
-          "android_version": "13",
-          "build": "NE2215_13.1.0.618",
-          "links": {
-            "googledrive": "https://drive.google.com/file/d/1vwx234yza567/view?usp=sharing",
-            "onedrive": "https://1drv.ms/u/s!VWX234YZA567"
           }
         }
       ]
