@@ -5,15 +5,6 @@
       "model": "PKG110",
       "versions": [
         {
-          "version": "OxygenOS v9",
-          "android_version": "15",
-          "build": "9.0",
-          "links": {
-            "googledrive": "https://drive.google.com/file/d/1abc123def456/view?usp=sharing",
-            "onedrive": "https://1drv.ms/u/s!ABC123DEF456"
-          }
-        },
-        {
           "version": "ColorOS v2",
           "android_version": "15",
           "build": "2.0.840",
