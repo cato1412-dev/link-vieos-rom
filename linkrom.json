@@ -9,8 +9,23 @@
           "android_version": "15",
           "build": "2.0.840",
           "links": {
-            "googledrive": "https://drive.google.com/file/d/1vWQC4Apb93pb2q1NjKZ8Tt_4US557o-W/view?usp=drive_link",
-            "onedrive": "https://kentdao-my.sharepoint.com/:u:/g/personal/vieosteam_canhdn_site/EdkPwoEJyBpBjYEh2snv0MkB1n6O4F2hbtxvYG5ZNUHgtg?e=ySILjF"
+            "googledrive": "https://drive.google.com/file/d/1iQE-6QlunFDV-iRpoZPPzJh_W8kYo5RI/view?usp=drive_link",
+            "onedrive": "https://kentdao-my.sharepoint.com/:u:/g/personal/vieosteam_canhdn_site/EZ5istfhHH5HqOpAPvwAIDUB09V5zdQ7tyVfiGGyEKtODQ?e=aJB2iC"
+          }
+        }
+      ]
+    },
+    {
+      "name": "OnePlus Ace 3V",
+      "model": "PJF110",
+      "versions": [
+        {
+          "version": "ColorOS v2.0",
+          "android_version": "15",
+          "build": "2.0.840",
+          "links": {
+            "googledrive": "https://drive.google.com",
+            "onedrive": "https://kentdao-my.sharepoint.com/:u:/g/personal/vieosteam_canhdn_site/EWtXzEqf-oVEinLYHQ1975QBUg0Kh65WGNyO9TDepTCbPg?e=ct2sDi"
           }
         }
       ]
